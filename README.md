@@ -1,5 +1,14 @@
-This is a scalable API test automation framework skeleton built using Maven, Rest Assured, Jackson, and TestNG.
+# 🚀 API Automation Framework
 
-It uses Maven for build and dependency management, Rest Assured for writing clean and powerful API tests, Jackson for easy JSON ↔ Java object conversion, and TestNG for organizing, running, and reporting test cases.
+This is a **robust, scalable API test automation framework** built using:
+- **Maven** – build & dependency management  
+- **RestAssured** – API testing client  
+- **TestNG** – test execution & reporting  
+- **Jackson** – JSON serialization/deserialization  
+- **SLF4J + Logback** – logging  
 
-The framework sets up environment configs, reusable request/response specifications, utilities, and a clean base structure that makes writing and managing API tests much easier.
+It is designed to be **modular, maintainable, and industry-ready**, supporting environment management, reusable API clients, retries, logging, and data-driven testing.
+
+---
+
+## 📂 Project Structure
